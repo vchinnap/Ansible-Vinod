@@ -1,1 +1,14 @@
+---
+- person_name: person1
+  age: 34
+  address:
+    street: '1234 A Street'
+    city: Bangalore
+    zip_code: 560001
 
+- person_name: person2
+  age: 28
+  address:
+    street: '5678 B Street'
+    city: Bangalore
+    zip_code: 560001
