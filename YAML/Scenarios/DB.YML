@@ -1,1 +1,10 @@
+database:
+  hostname: localhost
+  port: 3306
+  username: myuser
+  password: mypassword
+
+application:
+  name: myapp
+  debug_mode: true
 
